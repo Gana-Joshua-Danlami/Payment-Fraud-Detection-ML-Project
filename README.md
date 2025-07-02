@@ -69,7 +69,8 @@ Here's a quick breakdown of the key files and folders in this repository:
 
 ├── Payment_Failure_Analysis.ipynb    *Main analysis notebook*
 
-├── cleaned_data.csv                  *Cleaned dataset used in the notebook*
+├── cleaned_data [[Google Drive link](https://drive.google.com/file/d/1w1uMdi0025vdJ2gVUSs0aMDU1RN2Mauv/view?usp=drive_link)]   *Optional download of the cleaned dataset*
+   
 
 ├── README.md                         *Project overview and documentation (this file)*
 
