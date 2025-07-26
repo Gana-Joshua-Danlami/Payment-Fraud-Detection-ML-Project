@@ -87,7 +87,7 @@ To explore this, I:
 - Cleaned and transformed a large financial transactions dataset.
 - Engineered features to highlight suspicious behavior.
 - Trained a classification model to detect fraudulent transactions.
-- Investigated the top fraud cases the model confidently caught.
+- Investigated the top fraud cases that the model confidently caught.
 - Compared the model’s performance against the system's fraud flag.
 
 > This project is less about building a fancy dashboard and more about **technical fraud detection**, digging into what makes fraud tick and how machine learning can help us stay one step ahead.
